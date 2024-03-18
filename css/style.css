@@ -11,7 +11,7 @@
     /*overflow-y: scroll; PERMITE QUE AQUELLOS ELEMENTOS QUE DESBORDEN
     DEL CONTENEDOR PUEDAN SER VISUALIZADOS CON LA BARRA DE 
     DESPLAZAMIENTO */
-    background-color: blue ;
+    background-color: #000912 ;
     padding: 20px;
     font-family: 'Times New Roman', Times, serif;
     order: 0;
@@ -82,7 +82,7 @@ header .botonera{
 }
 
 .descrip{
-    background-color:cadetblue;
+    background-color:#132d34;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     justify-content: center;
@@ -249,7 +249,7 @@ header .botonera{
 }
 
 .nosotros{
-    background-color:brown;
+    background-color:#4d8693;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     padding: 30px;
