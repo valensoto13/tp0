@@ -36,6 +36,12 @@ header .botonera{
     color: white;
 }
 
+header .fa-instagram{
+    display: flex;
+    font-size: 17pt;
+    color: white;
+}
+
 .banner{
     width: 100%;
     padding-bottom: 20px;
