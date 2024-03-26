@@ -36,8 +36,11 @@ header .botonera{
     color: white;
 }
 
-header .fa{
+header .fa-instagram {
     color: white;
+}
+header .fa-twiter{
+    color:white;
 }
 
 .banner{
